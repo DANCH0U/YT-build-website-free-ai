@@ -3,11 +3,18 @@
 ## Commands
 ```bash
 composer create-project laravel/laravel .
+```
+```bash
 composer require laravel/breeze --dev
+```
+```bash
 php artisan breeze:install vue
+```
+```bash
 npm run build
+```
+```bash
 php artisan serve
-
 ```
 ## Prompts
 
